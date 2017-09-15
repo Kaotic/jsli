@@ -1,5 +1,5 @@
 {
-  "name": "@calzoneman/jsli",
+  "name": "jsli",
   "version": "2.0.1",
   "description": "Logging interface for node.js",
   "main": "index.js",
